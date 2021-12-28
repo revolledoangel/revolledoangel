@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @revolledoangel
 - 👀 I’m interested in technology an web development
 - 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate in small projects that allow me to continue leanrning this world
+- 💞️ I’m looking to collaborate in small projects that allow me to continue learning this world
 - 📫 You can send me a message to the mail revolledoangel@gmail.com
 
 <!---
